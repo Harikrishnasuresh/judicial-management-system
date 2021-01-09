@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JUDICIAL MANAGEMENT PROJECT", "JUDICIAL MANAGEMENT PROJECT\JUDICIAL MANAGEMENT PROJECT.csproj", "{D52A1FC0-5926-435F-BB74-B528AD7C1B3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52A1FC0-5926-435F-BB74-B528AD7C1B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52A1FC0-5926-435F-BB74-B528AD7C1B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52A1FC0-5926-435F-BB74-B528AD7C1B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52A1FC0-5926-435F-BB74-B528AD7C1B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7263C1E4-181E-419E-8B41-DD65A4EEE0F6}
+	EndGlobalSection
+EndGlobal
